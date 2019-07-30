@@ -10,12 +10,13 @@ Completed. Last update Mar 2017. Refer to 'Scope for Improvement' section.
 
 ## Components used:
 1. Arduino Mega 2560
-2. TSOP 1738 IR Receiver
-3. 16x2 LCD displays - 2
-4. Universal TV Remote
-5. Connecting wires
-6. Trimming Potentiometers - 2
-7. Misc. items
+2. Particle Photon IoT device
+3. TSOP 1738 IR Receiver
+4. 16x2 LCD displays - 2
+5. Universal TV Remote
+6. Connecting wires
+7. Trimming Potentiometers - 2
+8. Misc. items
 
 ## Scope for improvement:
 1. More automation, such as gesture based controlled.
