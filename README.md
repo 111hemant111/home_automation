@@ -1,5 +1,9 @@
 # Remote controlled switching (Home automation)
-A home automation system based on TSOP 1738 IR receiver. The program is paired with a household TV remote and IR receiver is used to read the data on button presses. Switching is done using EM relay switches. The status of appliances is also displayed on the LCD displays.
+A home automation system controlled by both universal remote and smartphone application. 
+
+For TV remote based control, TSOP 1738 IR receiver is used to read the data on button presses. Switching is done using EM relay switches. The status of appliances is also displayed on the LCD displays.
+
+For app based control, Particle Photon IoT device is used. Uses Blynk platform for smartphone application interface.
 
 ## Status
 Completed. Last update Mar 2017. Refer to 'Scope for Improvement' section.
