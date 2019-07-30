@@ -1,4 +1,4 @@
-# Remote controlled switching (Home automation)
+# Home automation
 A home automation system controlled by both universal remote and smartphone application. 
 
 For TV remote based control, TSOP 1738 IR receiver is used to read the data on button presses. Switching is done using EM relay switches. The status of appliances is also displayed on the LCD displays.
