@@ -20,7 +20,7 @@ void setup()
   
   lcd.begin(16,2);
   lcd.setCursor(0,0);
-  lcd.print("  gn Ayesha :-) ");
+  lcd.print("  Good Night :-) ");
   delay(2000);
   pinMode(zerobulb,OUTPUT);
   pinMode(tv,OUTPUT);
